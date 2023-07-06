@@ -25,9 +25,9 @@ Iremos fazer algumas perguntas, e ao final, teremos 2 desafios práticos
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kauanschumacher/desafio-trybe-xp/resources/database-diagram.dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kauanschumacher/desafio-trybe-xp/resources/database-diagram.light.png">
-  <img alt="Diagrama de banco de dados." src="https://github.com/kauanschumacher/desafio-trybe-xp/resources/database-diagram.light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauanschumacher/desafio-trybe-xp/main/resources/database-diagram.dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauanschumacher/desafio-trybe-xp/main/resources/database-diagram.light.png">
+  <img alt="Diagrama de banco de dados." src="https://raw.githubusercontent.com/kauanschumacher/desafio-trybe-xp/main/resources/database-diagram.light.png">
 </picture>
 
 Queremos entender quantos contribuintes existem por cidade tendo os dados:
@@ -35,7 +35,7 @@ Queremos entender quantos contribuintes existem por cidade tendo os dados:
   - UF 
   - Total de Contribuintes
 
-<a target="__blank" href="https://www.db-fiddle.com/f/4pkYR1NF9ZVK1jyv9wLwrt/0">Realizar Desafio</a>
+<a target="_blank" href="https://www.db-fiddle.com/f/4pkYR1NF9ZVK1jyv9wLwrt/0">Realizar Desafio</a>
 
 ----
 
