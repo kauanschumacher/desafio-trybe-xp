@@ -3,6 +3,8 @@
 O objetivo desse desafio é entender a profundidade do conhecimento que você possui,
 Iremos fazer algumas perguntas, e ao final, teremos 2 desafios práticos
 
+---
+
 ## Perguntas:
 
 - Qual a diferença básica entre Sql e NoSql?
@@ -35,7 +37,7 @@ Queremos entender quantos contribuintes existem por cidade tendo os dados:
   - UF 
   - Total de Contribuintes
 
-<a target="_blank" href="https://www.db-fiddle.com/f/4pkYR1NF9ZVK1jyv9wLwrt/0">Realizar Desafio</a>
+<a href="https://www.db-fiddle.com/f/4pkYR1NF9ZVK1jyv9wLwrt/0" target="_blank">Realizar Desafio</a>
 
 ----
 
@@ -43,4 +45,4 @@ Queremos entender quantos contribuintes existem por cidade tendo os dados:
 
 Refatore o código de forma que ele fique mais simples, evitando o uso excessivo de `if`
 
-<a target="__blank" href="https://www.typescriptlang.org/play?#code/FAYwNghgzlAEAKBTA9gBzIgyogTgNwEsRFYBvYYWK2VAVwCMwjYBzRAFwDkIBbRAClQp0iKAC5YUdjgIA7FgG0AugEpYEqTPllK1PQDNkOWPwztYBWAF5YABgDcF2AB4awjFAB0GeewAWjgQA1EFq5HoR1CDIslJuaBjW8SJQCgRK9rqRegT6JkIJJFY2AEQAgrIQJWFZ2ZE4HLQ4srDllSWZdXoAvrC1dbn57kWlAFLIAMfI1Tpd2Q3sTS0l41Md-dndG5GDgsPWpQCyEDJVNXP1jc2tx6frF7BbdVvbsAtLrffUWy8A9L8HYpA4Eg0Fg8EQyFQ6EQ4D-WCcKawCBgdi4E6wZCwEAAZ4AJgQWFiIPQIAQAB5YvGidgQWBMWR+CBwgEwtnsjmcmEUaKxcxQXCEYhJWSIADuCGG2HwRAEKkyvKgyAwnnAiBO-HloBiSpVYGQLH4JQASqJaKiIHiqVjEOTcCAALcgAjICTVbWxZWIbwGo0AUTtIFoAHOkQBGN0AGkkgtlnjYXF4AgUK2QUAAlyVoyVbtEoFnWgAZWgQdrZ8YQACOtAIPALJQAKn4CBAifWAGK4SqyK3124tkqqLWKr0+w0lAOIIOhrEAJijMZlxHjHG4fH4KfGGb7Jzz9eLpaq5cm02zTZbbaHCp1o-148n06RAGYFwKl96E2vk20j61VqebhOAcrw9XVvTvf1AxDJEABZX1jZdPyTDcryAA">Realizar Desafio</a>
+<a target="_blank" href="https://www.typescriptlang.org/play?#code/FAYwNghgzlAEAKBTA9gBzIgyogTgNwEsRFYBvYYWK2VAVwCMwjYBzRAFwDkIBbRAClQp0iKAC5YUdjgIA7FgG0AugEpYEqTPllK1PQDNkOWPwztYBWAF5YABgDcF2AB4awjFAB0GeewAWjgQA1EFq5HoR1CDIslJuaBjW8SJQCgRK9rqRegT6JkIJJFY2AEQAgrIQJWFZ2ZE4HLQ4srDllSWZdXoAvrC1dbn57kWlAFLIAMfI1Tpd2Q3sTS0l41Md-dndG5GDgsPWpQCyEDJVNXP1jc2tx6frF7BbdVvbsAtLrffUWy8A9L8HYpA4Eg0Fg8EQyFQ6EQ4D-WCcKawCBgdi4E6wZCwEAAZ4AJgQWFiIPQIAQAB5YvGidgQWBMWR+CBwgEwtnsjmcmEUaKxcxQXCEYhJWSIADuCGG2HwRAEKkyvKgyAwnnAiBO-HloBiSpVYGQLH4JQASqJaKiIHiqVjEOTcCAALcgAjICTVbWxZWIbwGo0AUTtIFoAHOkQBGN0AGkkgtlnjYXF4AgUK2QUAAlyVoyVbtEoFnWgAZWgQdrZ8YQACOtAIPALJQAKn4CBAifWAGK4SqyK3124tkqqLWKr0+w0lAOIIOhrEAJijMZlxHjHG4fH4KfGGb7Jzz9eLpaq5cm02zTZbbaHCp1o-148n06RAGYFwKl96E2vk20j61VqebhOAcrw9XVvTvf1AxDJEABZX1jZdPyTDcryAA">Realizar Desafio</a>
